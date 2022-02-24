@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for the more easie advancing to the crown, any fixed sum of mony, to carry on the war against France, and payment of the debts contracted thereby Robert Murray.</title>
+            <author>Murray, Robert, 1635-1725?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51633</idno>
+            <idno type="STC">Wing M3121</idno>
+            <idno type="STC">ESTC R4426</idno>
+            <idno type="EEBO-CITATION">12246905</idno>
+            <idno type="OCLC">ocm 12246905</idno>
+            <idno type="VID">56975</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56975)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for the more easie advancing to the crown, any fixed sum of mony, to carry on the war against France, and payment of the debts contracted thereby Robert Murray.</title>
+                  <author>Murray, Robert, 1635-1725?</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:56975:1" rendition="simple:additions"/>
+            <head>A PROPOSAL For the more Eaſie <hi>Advancing to the Crown,</hi> ANY Fixed Sum of Mony, To Carry on the War againſt <hi>FRANCE;</hi> And Payment of the DEBTS Contracted thereby.</head>
+            <byline>By <hi>ROBERT M<g ref="char:V">Ʋ</g>RRAY,</hi> Gent.</byline>
+            <p>WHEREAS the <hi>Crown</hi> is often forc'd to take up great Sums, on <hi>Borrowing Clauſes,</hi> at heavy Intereſt, to the Clogging the <hi>Revenue;</hi> whereby, and by ſlow Coming<g ref="char:EOLhyphen"/>in of <hi>Money,</hi> the Service of the <hi>Crown</hi> hath been, and may be greatly Obſtructed: And what the <hi>Crown</hi> now gives for <hi>Security of Money,</hi> for Stores or Service, as <hi>Tallies, Or<g ref="char:EOLhyphen"/>ders of Treaſury, Privy-Seals,</hi> &amp;c. is, in a manner, dead and uſeleſs, till Actual Pay<g ref="char:EOLhyphen"/>ment; which is a great Bondage upon <hi>Trade,</hi> and Damage to the <hi>Subject;</hi> from which they eaſe Themſelves, what-ever They can, by Raiſing the Price of <hi>Stores</hi> and <hi>Goods,</hi> to the Publick Loſs and Diſ-ſervice.</p>
+            <p>AND, ſince <hi>Tallies</hi> are the beſt <hi>Security</hi> His Majeſty can give, becauſe always plac'd on ſome <hi>Branch</hi> of the <hi>Royal Revenue;</hi> which doth as much oblige the <hi>Crown</hi> and <hi>Ex<g ref="char:EOLhyphen"/>checquer,</hi> as <hi>Bonds</hi> and Seal'd and Deliver'd <hi>Deeds,</hi> doth <hi>Perſonal Debts,</hi> and <hi>Real E<g ref="char:EOLhyphen"/>ſtates:</hi>
+            </p>
+            <div type="part">
+               <head>It is therefore Propoſed,</head>
+               <p>THAT ſome <hi>Branch</hi> of the <hi>Royal Revenue, already</hi> Settled, or <hi>to be</hi> Settled on the <hi>Crown,</hi> be Charg'd, by <hi>Act of Parliament,</hi> with an <hi>Annual</hi> Payment, for a limited Term; For Inſtance, 400000 <hi>Pounds,</hi> for <hi>Eleven</hi> Years.</p>
+               <p>THAT <hi>Tallies</hi> of <hi>Pro</hi> be ſtruck upon This <hi>Fund,</hi> for the <hi>Revenue</hi> of the whole Term of <hi>Eleven</hi> Years.</p>
+               <p>THAT Doubling the <hi>Annual Sum,</hi> a<g ref="char:EOLhyphen"/>bates Half the <hi>Time;</hi> or, Doubling the <hi>Time,</hi> abates Half the <hi>Annual</hi> Payment: that is to ſay, 200000 <hi>Pounds</hi> for <hi>Twenty-Two</hi> Years, or 400000 <hi>Pounds</hi> for <hi>Eleven</hi> Years, pays <hi>Four Millions,</hi> with Contingencies.</p>
+               <p>THAT <hi>Truſtees,</hi> or <hi>Commiſſioners,</hi> be ap<g ref="char:EOLhyphen"/>pointed and empower'd by <hi>Parliament,</hi> to Give out <hi>Bills of Credit,</hi> upon theſe <hi>Tallies,</hi> by <hi>Order</hi> of the <hi>Treaſury.</hi>
+               </p>
+               <p>THAT theſe <hi>Bills of Credit</hi> be made Currant, in all manner of Payments, <hi>To</hi> and <hi>From</hi> the <hi>Crown,</hi> for the ſaid Term of <hi>Eleven</hi> Years; and a Surpluſage of <hi>Six</hi> or <hi>Twelve Months,</hi> to be allow'd for the entire
+<pb n="2" facs="tcp:56975:2"/>bringing of them in; of which Publick Notice to be Given by <hi>Proclamation.</hi>
+               </p>
+               <p>THAT the ſaid <hi>Bills</hi> be from an <hi>Hun<g ref="char:EOLhyphen"/>dred Pounds,</hi> down to <hi>Five Pounds,</hi> for the greater Coveniency of <hi>Trade</hi> and <hi>Dealing;</hi> and that they be made Payable to <hi>A. B.</hi> or <hi>Bearer,</hi> and Indented; which will render them as Uſeful and Currant as <hi>Money.</hi>
+               </p>
+               <p>THAT, upon Payment or Tender of theſe <hi>Bills,</hi> in any Dues to the <hi>Crown,</hi> none to be liable in his or their Perſons, Goods, Poſſeſſions, or Eſtate whatſoever, to any <hi>Extent, Diſtreſs, Seizure, Sequeſtration, Forfei<g ref="char:EOLhyphen"/>ture,</hi> or other Legal <hi>Proceſs;</hi> but ſhall be Reckon'd a Good Tender.</p>
+               <p>THAT every Year the <hi>Truſtees</hi> do take up, from the <hi>Exchecquer, One</hi> Years Reve<g ref="char:EOLhyphen"/>nue of the ſaid <hi>Tickets,</hi> and Cancel and De<g ref="char:EOLhyphen"/>face them, returning the <hi>Tallies</hi> for Them; by which Means, at the End of the Term, the <hi>Debts, Tickets,</hi> and <hi>Tallies,</hi> will be all Satisfy'd and Clear'd, without the Uſe of any Actual <hi>Money.</hi>
+               </p>
+               <p>THAT Counterfeiting of theſe <hi>Tickets</hi> be made as Criminal, as to Counterfeit <hi>Mo<g ref="char:EOLhyphen"/>ney:</hi> But that Proviſion be made, to cauſe Them to be next to impoſſible, to be Coun<g ref="char:EOLhyphen"/>terfeited; which may be ſeveral <hi>Ways</hi> done.</p>
+               <p>THAT the <hi>Act</hi> aſcertain the manner of Giving out the ſaid <hi>Tickets,</hi> or <hi>Bills,</hi> to any of the Perſons, that either have had, or have (as yet) no <hi>Tallies;</hi> and to any others, for <hi>Stores, Service,</hi> or otherwiſe.</p>
+               <p>THAT the <hi>Form</hi> of the ſaid <hi>Bills,</hi> and Method for Management, be declar'd by the <hi>Act;</hi> and that all <hi>Commiſſioners,</hi> or <hi>Far<g ref="char:EOLhyphen"/>mers</hi> of any Branch of the <hi>Revenue,</hi> be oblig'd to take the ſaid <hi>Bills, viz.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The FORM of the ſaid <hi>BILL: LONDON,</hi> The <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 1696.</head>
+               <byline>
+                  <hi>By his Majeſty</hi>'s <hi>Commiſſioners, or Truſtees,</hi> &amp;c.</byline>
+               <p>
+                  <hi>This Indented BILL,</hi>
+                  <note place="margin">Tally 522 Bill 59.</note> 
+                  <hi>Currant to</hi> C.D. <hi>or Bearer, for</hi> Five <hi>Pounds, being Part of the Sum of</hi> One Thouſand <hi>Pounds, Charg'd by</hi> Tally <hi>upon His</hi> Majeſty<hi>'s Exchecquer, Pay<g ref="char:EOLhyphen"/>able to</hi> A. B.</p>
+               <p>[The Mark and Number of the <hi>Tallies,</hi> or <hi>Bills,</hi> to be Incerted in the <hi>Margent.</hi>]</p>
+               <p>AS to the <hi>Objection,</hi> That it ſeems a Di<g ref="char:EOLhyphen"/>minution of the Honour of the <hi>Government,</hi> to Supply the Defect of <hi>Money</hi> by <hi>Bills; It is Anſwer'd,</hi>
+               </p>
+               <p>THAT the <hi>Fund</hi> or <hi>Capital,</hi> and <hi>Reputa<g ref="char:EOLhyphen"/>tion</hi> of <hi>Merchants,</hi> is always Eſteem'd to be Firm and Solid, when the <hi>Credit</hi> of their <hi>Bills</hi> is Good and Currant; of which they have the moſt nice and tender Regard, as being elſe accounted rather <hi>Bankrupts,</hi> than <hi>Bankers</hi> or <hi>Merchants:</hi> So, by Parity of Rea<g ref="char:EOLhyphen"/>ſon, it will prove in the <hi>Government,</hi> when it ſhall come once to have fixed the <hi>Method</hi> of it.</p>
+               <p>
+                  <hi>Benefits</hi> ariſing by this <hi>Method,</hi> are many: Inſtead of Paying Intereſt at <hi>Six per Cent.</hi> for <hi>Two Millions</hi> for ever, which is 120000 Pounds <hi>per Annum;</hi> that, by the <hi>Method</hi> Propos'd, a Debt of <hi>Two Millions,</hi> and an Advance of ſo much, will both be Clear'd in <hi>Eleven</hi> Years: That Intereſt-Money is this Way ſav'd, the <hi>Bilis</hi> being as Uſeful as <hi>Money.</hi>
+               </p>
+               <p>THIS <hi>Propoſal</hi> will aſſuredly remove all Jealouſies between the <hi>Government</hi> and <hi>People,</hi> in matters of mutual Dealing; an<g ref="char:EOLhyphen"/>ſwers all Ends of ſpeedy Raiſing Taxes, appointed to be paid by Act of <hi>Parliament:</hi> It makes the Publick <hi>Credit</hi> as ſafe, as be<g ref="char:EOLhyphen"/>tween Private <hi>Perſons;</hi> and ſecures the <hi>Government</hi> all neceſſary <hi>Stores</hi> as cheap, as thoſe that Buy for ready <hi>Money.</hi>
+               </p>
+               <p>ALL Poſtponing and Delays of <hi>Pay<g ref="char:EOLhyphen"/>ments</hi> by the <hi>Crown,</hi> are prevented, a quick Motion, and Circulation of <hi>Trade</hi> will na<g ref="char:EOLhyphen"/>turally follow.</p>
+               <pb n="3" facs="tcp:56975:2"/>
+               <p>
+                  <hi>SHIPS</hi> of War may be cleared without Demurrage, and the Sea-men thereby great<g ref="char:EOLhyphen"/>ly Encouraged.</p>
+               <p>THAT theſe <hi>Tickets,</hi> thus made Cur<g ref="char:EOLhyphen"/>rant, will be as readily Exchanged for Mony, as Guineas are, and with as little Charge; and that theſe <hi>Tickets</hi> are as an Addition of ſo much ready <hi>Money</hi> to the <hi>Stock</hi> of the <hi>Nation;</hi> and, in the <hi>Annual Ro<g ref="char:EOLhyphen"/>tation</hi> of <hi>Trade,</hi> will gain the Nation at leaſt <hi>Cent. per Cent.</hi> beſides the Augmentation of the <hi>Royal Revenue,</hi> by encreaſe of Cu<g ref="char:EOLhyphen"/>ſtoms, <hi>&amp;c.</hi>
+               </p>
+               <p>THE Sum of this <hi>Propoſal,</hi> is, That the whole <hi>Two</hi> Millions is paid by its own In<g ref="char:EOLhyphen"/>tereſt, with Contingencies, in 22 Years time, at 5 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+                  <hi>per Cent.</hi> which muſt needs be allowed to be more Eligible, than to pay 6 <hi>per Cent.</hi> for ever.</p>
+               <p>IT will beget an aſſured Confidence in the <hi>People,</hi> of the great Honour, Ten<g ref="char:EOLhyphen"/>derneſs, Juſtice, and Regard of the <hi>Crown</hi> towards them; and will add a new Ob<g ref="char:EOLhyphen"/>ligation of Intereſt to their bounden Duty of Allegiance.</p>
+               <p>THAT theſe <hi>Bills,</hi> (being thus ground<g ref="char:EOLhyphen"/>ed on <hi>Tallies,</hi> which, by Authority of Law, are placed upon ſome Branch of the <hi>Royal Revenue,</hi> and only iſſuable for real <hi>Mony</hi> Paid in, or Goods and Stores Delivered) will be of great uſe to the <hi>Crown</hi> and <hi>Peo<g ref="char:EOLhyphen"/>ple,</hi> by being made Currant in all Pay<g ref="char:EOLhyphen"/>ments, to and from the <hi>Crown;</hi> for that theſe <hi>Bills</hi> do exceedingly enlarge the Be<g ref="char:EOLhyphen"/>nefit of theſe <hi>Tallies,</hi> becauſe divided into ſmaller Sums: Yet if the Wiſdom of the <hi>Parliament</hi> ſhall make theſe <hi>Bills</hi> univerſal<g ref="char:EOLhyphen"/>ly Currant, and Payment and Tender therein to be as good and effectual, as if made in the preſent common <hi>Mony;</hi> the Benefits to be reaped thereby will be vaſt<g ref="char:EOLhyphen"/>ly enlarged to the <hi>Crown</hi> and <hi>Kingdom;</hi> for that it will do the Office of ſo much ad<g ref="char:EOLhyphen"/>ditional <hi>Money,</hi> brought into the <hi>Stock</hi> of the <hi>Nation;</hi> and, by being univerſally Dif<g ref="char:EOLhyphen"/>fuſed, without Obſtruction, through all the Veins of the Political Body, it will give freſh Vigour throughout the Whole, inſtead of being reſtrained only to ſome Parts: The <hi>Reaſons</hi> for making theſe <hi>Blls</hi> generally <hi>Currant,</hi> are Obvious, and Co<g ref="char:EOLhyphen"/>gent.</p>
+               <p n="1">1. It will extend their Benefit to all. All are equally ſafe in them, as in <hi>Mony,</hi> they having all the Eſſential Qualities, and Conveniences of Money; and conſe<g ref="char:EOLhyphen"/>quently, will as readily be taken up at <hi>Iniereſt,</hi> as (if doubted) can eaſily be made out; They are more ſafe than the preſent general Money, which uſually falls ſhort 30 or 40 <hi>per Cent.</hi> of what it ought to be; and therefore, were it called in, there would be a Loſs of about one Third; whereas there's no poſſibility of any Loſs by the <hi>Bills,</hi> becauſe placed on a ſure <hi>Fund,</hi> by the <hi>Sanction</hi> of a <hi>Law.</hi>
+               </p>
+               <p>AND, tho' by the <hi>Intended Regulation</hi> of our COYN, it will be Reduc'd to its for<g ref="char:EOLhyphen"/>mer Standard, both for <hi>Fineneſs</hi> and <hi>Weight;</hi> yet, ſeeing our <hi>Stock in Caſh</hi> is very much Sunk, and like to be Sunk much more, up<g ref="char:EOLhyphen"/>on the Calling-in and Melting-down our <hi>Light</hi> and <hi>Clipt Money,</hi> till the ſame can be Re-ſupply'd by the <hi>Mint:</hi> This <hi>Expedient</hi> ſeems to be of like Abſolute Neceſſity, to Supply the <hi>Deficiency</hi> of it, and to Prevent a <hi>Stagnation</hi> in the <hi>Circulation</hi> of our <hi>Trade</hi> and <hi>Commerce;</hi> which may elſe Expoſe us to <hi>Foreign Attempts.</hi>
+               </p>
+               <p>THAT, by the Iſſuing out of <hi>Credit,</hi> the <hi>Exchecquer</hi> is not only Excus'd the Iſſuing ſo much <hi>Money;</hi> but, inſtead of <hi>Ready Mo<g ref="char:EOLhyphen"/>ney,</hi> much of the <hi>Taxes,</hi> and other <hi>Impoſiti<g ref="char:EOLhyphen"/>ons,</hi> will this way be, in great Part, An<g ref="char:EOLhyphen"/>ſwer'd in <hi>Commodity,</hi> by Furniſhing the <hi>Crown</hi> with <hi>Stores</hi> and <hi>Proviſions</hi> for His Ma<g ref="char:EOLhyphen"/>jeſty's <hi>Royal Navy</hi> and <hi>Land Forces;</hi> where<g ref="char:EOLhyphen"/>by the <hi>Nation</hi> will be vaſtly Gainers, and that ſmall <hi>Stock in Caſh</hi> remaining, found Sufficient to make good the Ballance; and yet the <hi>Exchecquer</hi> better ſtor'd with <hi>Caſh,</hi> than heretofore.</p>
+               <p>THAT, without This, or ſome ſuch like <hi>Method,</hi> 'tis impoſſible for the <hi>Crown, Rebus ſic Stantibus,</hi> to be Accomodated, or the <hi>Currant</hi> of our <hi>Trade</hi> Maintain'd, and Kept on Foot: For <hi>Trade</hi> is not manag'd ſo much by our <hi>Stock</hi> in <hi>Currant Caſh,</hi> and <hi>Rea<g ref="char:EOLhyphen"/>dy Money,</hi> as <hi>Credit;</hi> which is, and hath been ever accounted the great Engine and Support of all <hi>Trade,</hi> not only <hi>Here,</hi> but in all the known <hi>Trading Parts</hi> and <hi>Places</hi> of the <hi>World:</hi> There being the ſame, if not greater Diſproportion and Inequality be<g ref="char:EOLhyphen"/>tween
+<pb n="4" facs="tcp:56975:3" rendition="simple:additions"/>
+                  <hi>Coyn</hi> and <hi>Credit,</hi> as between <hi>Copper<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Tokens</hi> and <hi>Silver:</hi> So that all <hi>Coyns</hi> of <hi>Gold</hi> and <hi>Silver,</hi> are not otherwiſe to be Rec<g ref="char:EOLhyphen"/>kon'd or Eſteem'd in the Body of <hi>Trade,</hi> than as the <hi>Fractions,</hi> and ſmaller <hi>Particles</hi> of <hi>Credit,</hi> ordain'd only to Anſwer it in the moſt <hi>Minute Occaſions</hi> thereof; and Anſwers to <hi>Credit,</hi> as <hi>Silver</hi> to <hi>Gold,</hi> and <hi>Tokens</hi> to <hi>Silver;</hi> which are, and ever will (notwith<g ref="char:EOLhyphen"/>ſtanding) be neceſſary to Even ſuch <hi>Rec<g ref="char:EOLhyphen"/>konings,</hi> as cannot otherwiſe be Adjuſted.</p>
+               <p>THAT ſince the Publick Revenues are founded in the <hi>People</hi> originally, and flow from them to the <hi>Crown;</hi> and that the <hi>Credit</hi> of the <hi>Crown</hi> is a Conſequent of it, and derived from the ſame Fountain; and being ſecured by Law, as aforeſaid, whereby it has all the Uſes and Qualifica<g ref="char:EOLhyphen"/>tions of Money; and ſince the Publick Good is hereby greatly Furthered, and without Damage to Particulars: If the Wiſdom of <hi>Parliament</hi> ſhould think fit to uſe the <hi>Coercive Power,</hi> it may not be un<g ref="char:EOLhyphen"/>reaſonable to impoſe the <hi>General Currancy</hi> of ſuch <hi>Credit</hi> on the <hi>People,</hi> whence it's derived, as from its proper Root and Fountain; and to whom Immenſe Bene<g ref="char:EOLhyphen"/>fits will certainly accrue by it: For whoſe Eaſe, in Conjunction with His Majeſties Service, this <hi>Credit</hi> is wholly intended: Nevertheleſs to Reſtrain the <hi>Credit</hi> of ſuch <hi>Bills</hi> to the <hi>Crown</hi> only, is ſufficient to Ren<g ref="char:EOLhyphen"/>der it Eligible among Traders and Mer<g ref="char:EOLhyphen"/>chants, as if made <hi>Currant</hi> at large, as <hi>Coin.</hi>
+               </p>
+               <p>Wherefore, to Conclude, This Great <hi>De<g ref="char:EOLhyphen"/>ſign</hi> will have the Greater Effect, being Aſ<g ref="char:EOLhyphen"/>ſiſted under the Management and Directi<g ref="char:EOLhyphen"/>on of a Well-Conſtituted, and Truly <hi>Na<g ref="char:EOLhyphen"/>tional Bank,</hi> to be Eſtabliſh'd by <hi>Law,</hi> un<g ref="char:EOLhyphen"/>der Check and Inſpection of the <hi>National Magiſtracy</hi> and <hi>Government:</hi> And nothing can be more Safe, nor more Honourable; for that the <hi>Nation</hi> is its own <hi>Truſtee;</hi> and conſequently, neither can, nor will Betray it <hi>Self,</hi> or <hi>Government;</hi> that being Unnatu<g ref="char:EOLhyphen"/>ral to ſuppoſe: And what-ever <hi>Change of Government,</hi> or <hi>State-Convulſions</hi> ſhould hap<g ref="char:EOLhyphen"/>pen, none can ſeize a <hi>Treaſure</hi> thus Secur'd, without drawing the Juſtice and Venge<g ref="char:EOLhyphen"/>ance of the whole <hi>Nation</hi> upon them: And for the <hi>Government,</hi> or <hi>Nation,</hi> to ſtoop to little <hi>Banks,</hi> carry'd on by <hi>Private Perſons,</hi> is to do them too much Honour, and ſubject the <hi>Publick</hi> to Danger and Loſs, from De<g ref="char:EOLhyphen"/>ſigning <hi>Spirits;</hi> And, at the ſame Time, to forget, that the <hi>Wiſdom, Power,</hi> and <hi>Integri<g ref="char:EOLhyphen"/>ty</hi> of a <hi>Nation,</hi> is certainly its own Beſt, and moſt Natural <hi>Refuge</hi> and <hi>Safety;</hi> and are Fitteſt and Ableſt to Aſſiſt the <hi>Government</hi> in all Emergencies: The <hi>Credit</hi> of ſuch a <hi>BANK</hi> muſt needs <hi>Obtain</hi> both at <hi>Home,</hi> and <hi>Abroad,</hi> thro' all Parts and Places of the World, where we hold any <hi>Commerce,</hi> or <hi>Traffick;</hi> when <hi>Private Banks</hi> cannot be Truſted by our neareſt <hi>Neighbours,</hi> t'other Side of the Water.</p>
+               <p>All which is Humbly Offer'd to the Wiſdom and Conſideration of the Honourable <hi>HOUSE of COMMONS.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
